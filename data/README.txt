@@ -1,11 +1,3 @@
-Apenas um sample dos datasets:
-belief_data.csv
-ratings_for_additional_users.csv
-
-Pois ultrapassavam 150mb e o GitHub não permite.
-
-Após isso eu pensei em compactar os arquivos, e funcionou.
-
 Summary
 =======
 
