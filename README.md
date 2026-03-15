@@ -6,6 +6,19 @@ This project demonstrates a complete modern data pipeline using cloud storage, d
 
 ---
 
+
+## Dashboard
+
+The final dashboard was built in Metabase to explore rating patterns and movie insights.
+
+
+![Ratings Dashboard](images/dashboard_netflix_1.png)
+
+![Movies Dashboard](images/dashboard_netflix_2.png)
+
+---
+
+
 ## Project Architecture
 
 The pipeline follows a modern data architecture:
@@ -22,17 +35,6 @@ Technologies used:
 
 ---
 Oficial link for the data used in the project: https://grouplens.org/datasets/movielens/ml_belief_2024/
-
-## Dashboard
-
-The final dashboard was built in Metabase to explore rating patterns and movie insights.
-
-
-![Ratings Dashboard](images/dashboard_netflix_1.png)
-
-![Movies Dashboard](images/dashboard_netflix_2.png)
-
----
 
 
 ## Data Pipeline Flow
@@ -93,14 +95,13 @@ In a real environment the data pipeline reads directly from cloud storage.
 
 ---
 
-## Key Skills Demonstrated
+## What I Learned
 
-- Data pipeline architecture
-- Cloud data storage
-- Data warehouse modeling
-- SQL data transformation
-- Dashboard development
-- End-to-end analytics workflow
+- Building end-to-end data pipelines
+- Creating external tables in BigQuery
+- Data transformation with SQL
+- Dimensional modeling (fact and dimension tables)
+- Connecting a data warehouse to a BI tool
 
 ---
 
