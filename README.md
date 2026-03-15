@@ -1,8 +1,6 @@
-# Netflix Data Pipeline
+# Netflix Data Pipeline (End-to-End Data Engineering Project)
 
 End-to-end data engineering project that ingests raw Netflix-style movie rating data, processes it in a cloud data warehouse, and visualizes insights through a business intelligence dashboard.
-
-This project demonstrates a complete modern data pipeline using cloud storage, data warehousing, and analytics tools.
 
 ---
 
